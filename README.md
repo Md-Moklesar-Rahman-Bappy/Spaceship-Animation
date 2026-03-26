@@ -40,7 +40,7 @@ To run this project locally:
    git clone https://github.com/Md-Moklesar-Rahman-Bappy/Spaceship-Animation.git
 ```
 
-2.** Navigate into the project folder:**
+2. **Navigate into the project folder:**
 ```bash
    cd Spaceship-Animation
 ```
